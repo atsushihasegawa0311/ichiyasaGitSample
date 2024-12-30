@@ -1,0 +1,7 @@
+{
+    env:{
+        local:"localhost",
+        dev:"10000",
+        prod:"20000"
+    }
+}
